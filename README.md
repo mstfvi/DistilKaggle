@@ -45,12 +45,12 @@ If you use this dataset in your research, please cite the accompanying paper:
 ```python
 @inproceedings{mostafavi-msr2024-DistilKaggle,
   title={DistilKaggle: A Distilled Dataset of Kaggle Jupyter Notebooks},
-  booktitle = {Proceedings of the 21st IEEE/ACM International Conference on Mining Software Repositories (MSR)},
+  booktitle={Proceedings of the 21st IEEE/ACM International Conference on Mining Software Repositories (MSR)},
   author={Mojtaba Mostafavi Ghahfarokhi and Arash Asgari and Mohammad Abolnejadian and Abbas Heydarnoori},
-  month = {April},
+  month={April},
   year={2024},
-  publisher = {IEEE/ACM},
-  address = {Lisbon, Portugal},
+  publisher={IEEE/ACM},
+  address={Lisbon, Portugal},
 }
 ```
 

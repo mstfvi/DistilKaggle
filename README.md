@@ -35,6 +35,9 @@ The original dataset of Kaggle kernels is substantial, exceeding 300GB, making i
 
 ## Citation
 
-If you use this dataset in your research, please cite the accompanying paper or provide appropriate acknowledgment as outlined in the documentation.
+If you use this dataset in your research, please cite the accompanying paper:
+
+**M. Mostafavi, A. Asgari, M. Abolnejadian, and A. Heydarnoori. "DistilKaggle: A Distilled Dataset of Kaggle Jupyter Notebooks", In Proceedings of the 21st IEEE/ACM International Conference on Mining Software Repositories (MSR), Lisbon, Portugal, Apr. 2024.
+**
 
 Thank you for using DistilKaggle!

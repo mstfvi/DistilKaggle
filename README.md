@@ -40,6 +40,15 @@ Please note that the original dataset of Kaggle kernels is substantial, exceedin
 
 If you use this dataset in your research, please cite the accompanying paper:
 
-**M. Mostafavi, A. Asgari, M. Abolnejadian, and A. Heydarnoori. "DistilKaggle: A Distilled Dataset of Kaggle Jupyter Notebooks", In Proceedings of the 21st IEEE/ACM International Conference on Mining Software Repositories (MSR), Lisbon, Portugal, Apr. 2024.**
+**M. Mostafavi Ghahfarokhi, A. Asgari, M. Abolnejadian, and A. Heydarnoori. "DistilKaggle: A Distilled Dataset of Kaggle Jupyter Notebooks", In Proceedings of the 21st IEEE/ACM International Conference on Mining Software Repositories (MSR), Lisbon, Portugal, Apr. 2024.**
+
+```python
+@inproceedings{mostafavi-msr2024-DistilKaggle,
+  title={DistilKaggle: A Distilled Dataset of Kaggle Jupyter Notebooks},
+  author={Mojtaba Mostafavi Ghahfarokhi and Arash Asgari and Mohammad Abolnejadian and Abbas Heydarnoori},
+  year={2024},
+  booktitle = {Proceedings of the 21st IEEE/ACM International Conference on Mining Software Repositories (MSR)},
+}
+```
 
 Thank you for using DistilKaggle!

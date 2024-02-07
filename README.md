@@ -29,9 +29,12 @@ The utility directory contains two important files:
 
 Researchers can leverage this distilled dataset for various analyses without dealing with the bulk of the original 300GB dataset. For access to the raw, unprocessed Kaggle kernels, researchers can request the dataset directly.
 
-## Note
+## Access the Dataset
 
-The original dataset of Kaggle kernels is substantial, exceeding 300GB, making it impractical for direct upload to Zenodo. Researchers interested in the full dataset can contact the dataset maintainers for access.
+You can access the dataset from the link below:
+<br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10317389.svg)](https://doi.org/10.5281/zenodo.10317389)
+
+Please note that the original dataset of Kaggle kernels is substantial, exceeding 300GB, making it impractical for direct upload to Zenodo. Researchers interested in the full dataset can contact the dataset maintainers for access.
 
 ## Citation
 
